@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enemy Hurt Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3481848281
+    locked: 0
+  - name: Environment Back
+    uniqueID: 2316274913
+    locked: 0
+  - name: Character
+    uniqueID: 2808993553
+    locked: 0
+  - name: Enemy
+    uniqueID: 3701798893
+    locked: 0
+  - name: Environment Front
+    uniqueID: 949548717
+    locked: 0
+  - name: UI
+    uniqueID: 3664730163
+    locked: 0
